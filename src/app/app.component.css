@@ -1,0 +1,26 @@
+.btn-red{
+    background: red;
+    color:white;
+
+}
+.strike{
+    text-decoration: line-through;
+    opacity: unset;
+}
+name{
+    size: 40px;
+}
+h1{
+    font-size: 100px;
+}
+tbody{
+    font-size: 30px;
+    color:greenyellow;
+    text-align: center;
+}
+input{
+    font-size: 30px;
+}
+checkBox{
+    font-size: 40px;
+}
